@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate ios and blockchain developer from Mexico.</h3>
 
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-two-bice.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/kevinduenas)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0kevinduenas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0kevinduenas" height="30" width="40" /></a>
