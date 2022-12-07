@@ -13,6 +13,8 @@
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
+<a href="https://www.linkedin.com/in/kevinduenas/"><img src="https://github.com/KevinDuenas/kevinduenas/blob/main/avatarPeace.jpg" align="right" height="275" /></a>
+
 <details>
 <summary>More Skills</summary>
 <br>
