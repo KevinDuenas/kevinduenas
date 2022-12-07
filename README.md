@@ -1,7 +1,6 @@
+<a href="https://www.linkedin.com/in/kevinduenas/"><img src="https://github.com/KevinDuenas/kevinduenas/blob/main/avatarPeace.jpg" align="right" height="275" /></a>
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate ios and blockchain developer from Mexico.</h3>
-
-<a href="https://www.linkedin.com/in/kevinduenas/"><img src="https://github.com/KevinDuenas/kevinduenas/blob/main/avatarPeace.jpg" align="right" height="275" /></a>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/0kevinduenas)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kevinduenas/)
