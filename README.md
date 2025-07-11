@@ -25,7 +25,7 @@ I'm always open to conversations about:
 `#fullstack` · `#devOps` · `#iOS` · `#MVPs` · `#AI` · `#Startups` · `#RemoteWork`
 
 - 📫 Reach me at: [kevinduenas@hotmail.es](mailto:kevinduenas@hotmail.es)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kevinduenas/) · [Twitter](https://twitter.com/0kevinduenas)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kevinduenas/)
 
 ---
 
